@@ -35,8 +35,11 @@ this will contain the logo in the design of your completed answers
 ![Alt text](images/Circle.svg.png)
 ![Alt text](images/Square.svg.png)
 ![Alt text](images/Triangle.svg.png)
+![Alt text](<images/npm test.png>)
 
 video walkthrough: <iframe src="https://drive.google.com/file/d/1cEzzS8F6g4j3vcNN-dBRRoAUZO4KII_O/preview" width="640" height="480"></iframe>
+
+npm test video walkthrough: <iframe src="https://drive.google.com/file/d/11LrvEkF2pVGjZDYWDy8GkH8qbU3MxIK1/preview" width="640" height="480"></iframe>
 
 
 ## What I Learnt
